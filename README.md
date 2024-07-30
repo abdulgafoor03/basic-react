@@ -45,3 +45,9 @@ parent->child->grand-child
   6. UseMemo and UseCallback as per requirement
   7. Higher order component development
 
+
+git commands:
+git init
+git remote add origin https://github.com/abdulgafoor03/basic-react.git
+git push -u -f origin master
+
